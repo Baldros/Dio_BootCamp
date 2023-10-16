@@ -1,5 +1,5 @@
 # Dio_Bootcamp
-Repositório criado para conter os projetos e entregáveis do bootcamp do santander 2023 oferecido pela DIO. A ideia aqui é 
+Repositório desenvolvido para conter os projetos e entregáveis do bootcamp do santander 2023 oferecido pela DIO. A ideia aqui é 
 separar cada projeto em sua pasta com todos os arquivos utilizados e contendo um arquivo de texto explicando todo o processo 
 de elaboração e construção do entregável.
 
